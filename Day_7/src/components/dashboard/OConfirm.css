@@ -1,0 +1,16 @@
+.order-confirmation-page {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+  }
+  
+  .order-confirmation-page h2 {
+    text-align: center;
+  }
+  
+  .order-confirmation-page p {
+    margin-top: 20px;
+  }
+  
