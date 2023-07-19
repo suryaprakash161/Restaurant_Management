@@ -1,0 +1,80 @@
+.registration-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+  /* margin-left: 70px; */
+}
+.ls
+{
+  margin-right: 70%;
+  margin-top: 50%;
+}
+
+
+.whole {
+  /* background-image: url(''); */
+  /* background-image: url('C:/Users/Surya/services/public/images/ls.jpg'); */
+  /* background-image: 100%;  */
+  background-repeat: no-repeat;
+
+  
+  /* margin-left: 50%; */
+}
+
+
+.registration-form button {
+  margin-top: 50px;
+  border-radius: 6%;
+  
+}
+
+.mob
+{
+
+
+margin-left: 70%;
+font-size: 125%;
+font-style: italic;
+color: aliceblue;
+}
+.kl
+{
+/* background-image: url('C:/Users/Surya/services/public/images/pexels-codioful-(formerly-gradienta)-7130497.jpg'); */
+background-color: white;
+border-radius: 6%;
+width: 100%;
+padding: 2.5%;
+}
+.logo
+{
+margin-right: 70%;
+
+border-radius: 25px;
+}
+
+.para1
+{
+margin-left: 15%;
+flex-direction: column;
+justify-content: center;
+color:
+aliceblue;
+font-size: 300%;
+}
+.para2
+{
+margin-left: 30%;
+flex-direction: column; 
+color: white;
+font-size: 150%;
+}
+.merits
+{
+margin-bottom: 40%;
+margin-right: 50%;
+flex-direction: row; 
+color: white;
+font-size: 150%;
+
+}

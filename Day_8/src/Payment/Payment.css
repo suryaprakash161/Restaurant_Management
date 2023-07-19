@@ -1,0 +1,50 @@
+.payment-gateway-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    height: 500px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: deepskyblue;
+  }
+  
+  .payment-form {
+    margin-top: 20px;
+    width: 360px ;
+    height: 400px;
+  }
+  
+  .payment-options {
+    margin-bottom: 15px;
+
+  }
+  
+  .payment-option {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .payment-option.selected {
+    font-weight: bold;
+  }
+  
+  input[type="radio"] {
+    margin-right: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #4caf50;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  
