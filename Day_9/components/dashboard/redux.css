@@ -1,0 +1,19 @@
+/* Define your custom styles here */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #0099ff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
